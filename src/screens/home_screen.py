@@ -28,7 +28,7 @@ def home_screen():
         st.markdown(
             """
             <h2 style="color:#000000 !important; margin-bottom:10px;">
-                I'm<br>Student
+                I'm<br>Teacher
             </h2>
             """,
             unsafe_allow_html=True
